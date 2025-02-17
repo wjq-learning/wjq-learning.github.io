@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiquan Wang"
-description              : "王跻权"
+description              : "Ph.D."
 repository               : "wjq-learning/wjq-learning.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiquan Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
+  bio              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
