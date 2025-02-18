@@ -93,9 +93,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com),
-
-  A, B, C, **CVPR 2020**
+- ``TNSRE2023`` [Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings](https://ieeexplore.ieee.org/document/10242085) **Jiquan Wang**, Sha Zhao, Yangxuan Zhou, Haiteng Jiang, Zhenghe Yu, Tao Li, Shijian Li, Gang Pan
 
 [//]: # (# 🎖 Honors and Awards)
 
