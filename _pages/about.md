@@ -56,7 +56,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 **Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
-[![Paper](https://img.shields.io/badge/Paper-2412.07236-red)](https://arxiv.org/abs/2412.07236)
+[![Paper](https://img.shields.io/badge/arXiv-2412.07236-red)](https://arxiv.org/abs/2412.07236)
 [![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://openreview.net/forum?id=NPNUHgHF2w)
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
@@ -72,7 +72,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 **Jiquan Wang**, Sha Zhao, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
-[![Paper](https://img.shields.io/badge/Paper-2401.05363-red)](https://arxiv.org/abs/2401.05363)
+[![Paper](https://img.shields.io/badge/arXiv-2401.05363-red)](https://arxiv.org/abs/2401.05363)
 [![Paper](https://img.shields.io/badge/Paper-AAAI-008B8B)](https://ojs.aaai.org/index.php/AAAI/article/view/27779)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/SleepDG)](https://github.com/wjq-learning/SleepDG)
 
