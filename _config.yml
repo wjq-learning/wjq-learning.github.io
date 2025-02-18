@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiquan Wang (王跻权)"
-description              : "Ph.D."
+description              : "PhD candidate in Computer Science with the College of Computer Science and Technology, Zhejiang University. Focusing on BCI and AI."
 repository               : "wjq-learning/wjq-learning.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiquan Wang (王跻权)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Jiquan Wang is currently working toward the Ph.D. degree in Computer Science with the College of Computer Science and Technology and the State Key Laboratory of Brain-machine Intelligence, Zhejiang University. His research interests include brain-machine interfaces, machine learning and natural language processing."
+  bio              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 
