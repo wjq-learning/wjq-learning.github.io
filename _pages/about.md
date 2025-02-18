@@ -70,12 +70,26 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 [Generalizable Sleep Staging via Multi-Level Domain Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/27779)
 
-**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+**Jiquan Wang**, Sha Zhao, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
 [![Paper](https://img.shields.io/badge/Paper-2401.05363-red)](https://arxiv.org/abs/2401.05363)
 [![Paper](https://img.shields.io/badge/Paper-AAAI-008B8B)](https://ojs.aaai.org/index.php/AAAI/article/view/27779)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/SleepDG)](https://github.com/wjq-learning/SleepDG)
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/papers/CareSleepNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging](https://ieeexplore.ieee.org/document/10595067)
+
+**Jiquan Wang**, Sha Zhao, Yangxuan Zhou, Haiteng Jiang, Zhenghe Yu, Tao Li, Shijian Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/Paper-JBHI-008B8B)](https://ieeexplore.ieee.org/document/10595067)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CareSleepNet)](https://github.com/wjq-learning/CareSleepNet)
+
+- **Cover Article 💡**
 </div>
 </div>
 
