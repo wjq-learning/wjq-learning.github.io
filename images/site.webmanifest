@@ -3,14 +3,14 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/wangjiquan.jpg",
-          "sizes": "480x640",
-          "type": "image/jpeg"
+          "src": "/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
        },
        {
-        "src": "/wangjiquan.jpg",
-        "sizes": "480x640",
-        "type": "image/jpeg"
+        "src": "/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
         }
     ],
     "theme_color": "#FFFFFF",
