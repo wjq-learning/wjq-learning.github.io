@@ -93,13 +93,13 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 </div>
 </div>
 
+- `ICLR 2025` [BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications](https://openreview.net/forum?id=6jjAYmppGQ), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+- `AAAI 2025` [Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation](https://arxiv.org/abs/2412.12159), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Benyan Luo, Tao Li, Gang Pan
+- `TNSRE 2024` [Simplifying Multimodal with Single EOG Modality for Automatic Sleep Staging](https://ieeexplore.ieee.org/document/10504925), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Zhenghe Yu, Shijian Li, Tao Li, Gang Pan
 - `TNSRE 2023` [Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings](https://ieeexplore.ieee.org/document/10242085), **Jiquan Wang**, Sha Zhao, Yangxuan Zhou, Haiteng Jiang, Zhenghe Yu, Tao Li, Shijian Li, Gang Pan
 - `ACL 2023` [Multimodal sarcasm target identification in tweets](https://aclanthology.org/2022.acl-long.562/), **Jiquan Wang**, Lin Sun, Yi Liu, Meizhi Shao, Zengwei Zheng
 - `AAAI 2021` [RpBERT: a text-image relation propagation-based BERT model for multimodal NER](https://ojs.aaai.org/index.php/AAAI/article/view/17633), Lin Sun, **Jiquan Wang**, Kai Zhang, Yindu Su, Fangsheng Weng
 - `COLING 2020` [RIVA: a pre-trained tweet multimodal model based on text-image relation for multimodal NER](https://aclanthology.org/2020.coling-main.168/), Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Yuanyi Chen
-- `TNSRE 2024` [Simplifying Multimodal with Single EOG Modality for Automatic Sleep Staging](https://ieeexplore.ieee.org/document/10504925), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Zhenghe Yu, Shijian Li, Tao Li, Gang Pan
-- `AAAI 2025` [Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation](https://arxiv.org/abs/2412.12159), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Benyan Luo, Tao Li, Gang Pan
-- `ICLR 2025` [BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications](https://openreview.net/forum?id=6jjAYmppGQ), Yangxuan Zhou, Sha Zhao, Jiquan Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
 [//]: # (# 🎖 Honors and Awards)
 
