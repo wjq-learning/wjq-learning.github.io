@@ -36,15 +36,15 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation Model 🚀**) is accepted by ICLR
   2025!
-- *2025.01*: &nbsp;🎉🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
+- *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by ICLR 2025!
-- *2024.12*: &nbsp;🎉🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
+- *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
   published as a cover article in IEEE Journal of Biomedical and Health Informatics (JBHI)!
-- *2024.12*: &nbsp;🎉🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
+- *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
   accepted by AAAI 2024!
-- *2023.12*: &nbsp;🎉🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by AAAI
+- *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by AAAI
   2023!
-- *2023.09*: &nbsp;🎉🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
+- *2023.09*: &nbsp;🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
   published in IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)!
 
 # 📝 Publications
