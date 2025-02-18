@@ -84,27 +84,35 @@ vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 [//]: # ()
 [//]: # (  A, B, C, **CVPR 2020**)
 
-# 🎖 Honors and Awards
+[//]: # (# 🎖 Honors and Awards)
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
+[//]: # ()
+[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
+
+[//]: # (  dapibus sit amet.)
+
+[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
+
+[//]: # (  dapibus sit amet.)
 
 # 📖 Educations
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac
-  tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus
-  justo dapibus sit amet.
+- *2019.06 - 2025.03*, PhD candidate, Computer Science and Technology, Zhejiang University, Hanzhou, China.
+- *2015.09 - 2019.06*, Undergraduate, Software Engineering, Harbin Institute of Technology, Harbin, China.
 
-# 💬 Invited Talks
+[//]: # (# 💬 Invited Talks)
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet. \| [\[video\]](https://github.com/)
+[//]: # ()
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
 
-# 💻 Internships
+[//]: # (  dapibus sit amet.)
 
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
+
+[//]: # (  dapibus sit amet. \| [\[video\]]&#40;https://github.com/&#41;)
+
+[//]: # ()
+[//]: # (# 💻 Internships)
+
+[//]: # ()
+[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
