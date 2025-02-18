@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiquan Wang <br> (王跻权)"
+title                    : "Jiquan Wang (王跻权)"
 description              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
 repository               : "wjq-learning/wjq-learning.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiquan Wang (王跻权)"
+  name             : "Jiquan Wang <br> (王跻权)"
   avatar           : "images/wangjiquan-480x640.png"
   bio              : "PhD candidate (September 2019~present)"
   location         : "Hangzhou, China"
