@@ -43,7 +43,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 - *2024.12*: &nbsp;🎉🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
   accepted by AAAI 2024!
 - *2023.12*: &nbsp;🎉🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by AAAI
-  2024!
+  2023!
 - *2023.09*: &nbsp;🎉🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
   published in IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)!
 
