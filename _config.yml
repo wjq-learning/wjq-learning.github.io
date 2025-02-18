@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiquan Wang (王跻权)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
+  bio              : "Jiquan Wang is currently working toward the Ph.D. degree in Computer Science with the College of Computer Science and Technology and the State Key Laboratory of Brain-machine Intelligence, Zhejiang University. His research interests include brain-machine interfaces, machine learning and natural language processing."
   location         : "Hangzhou, China"
-  employer         : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
+  employer         : "Zhejiang University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iySBCncAAAAJ"
   email            : "wangjiquan@zju.edu.cn"
