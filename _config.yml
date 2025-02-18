@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiquan Wang (王跻权)"
-description              : "PhD candidate in Zhejiang University. Focusing on BCI and AI."
+description              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
 repository               : "wjq-learning/wjq-learning.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiquan Wang (王跻权)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "State Key Laboratory of Brain-machine Intelligence, Zhejiang University"
+  bio              : "PhD candidate (September 2019~present)"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 
