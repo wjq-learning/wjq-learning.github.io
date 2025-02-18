@@ -41,13 +41,29 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 - *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
   published as a cover article in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
 - *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
-  accepted by **AAAI 2024**!
+  accepted by **AAAI 2025**!
 - *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI
-  2023**!
+  2024**!
 - *2023.09*: &nbsp;🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
   published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/CBraMod.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=NPNUHgHF2w)
+
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/Paper-2412.07236-red)](https://arxiv.org/abs/2412.07236)
+[![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://openreview.net/forum?id=NPNUHgHF2w)
+[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
+
+- **EEG Foundation Model 🚀**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/CBraMod.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
