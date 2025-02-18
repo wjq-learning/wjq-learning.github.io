@@ -19,8 +19,7 @@ redirect_from:
 
 I am a PhD candidate at the State Key Laboratory of Brain-machine Intelligence, Zhejiang University (浙江大学脑机智能全国重点实验室).
 
-I graduated from College of Computer Science and Technology, Harbin Institute of Technology (
-哈尔滨工业大学计算机科学与技术学院) with a bachelor’s degree of Software Engineering (软件工程专业学士学位).
+I graduated from College of Computer Science and Technology, Harbin Institute of Technology (哈尔滨工业大学计算机科学与技术学院) with a bachelor’s degree of Software Engineering (软件工程专业学士学位).
 
 My research interest includes EEG decoding, Brain-Computer Interface, Artificial Intelligence and Deep Learning.
 
