@@ -34,7 +34,8 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 # 🔥 News
 
-- *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation Model 🚀**) is accepted by **ICLR
+- *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
+  Model 🚀**) is accepted by **ICLR
   2025**!
 - *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by **ICLR 2025**!
@@ -49,73 +50,45 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 
 # 📝 Publications
 
-[//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[//]: # ()
+[CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=NPNUHgHF2w)
 
-[//]: # (<div class='paper-box-text' markdown="1">)
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
-[//]: # ()
+[**Project
+**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[//]: # ()
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit
+  amet.
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+</div>
+</div>
 
-[//]: # ()
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com),
 
-[//]: # ()
-
-[//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # ([**Project)
-
-[//]: # ()
-
-[//]: # (**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit)
-
-[//]: # ()
-
-[//]: # (  amet.)
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # (</div>)
-
-[//]: # ()
-
-[//]: # (</div>)
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;,)
-
-[//]: # ()
-
-[//]: # (  A, B, C, **CVPR 2020**)
+  A, B, C, **CVPR 2020**
 
 [//]: # (# 🎖 Honors and Awards)
 
 [//]: # ()
 
+[//]: # ()
+
+[//]: # ()
+
 [//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
+
+[//]: # ()
 
 [//]: # (  dapibus sit amet.)
 
+[//]: # ()
+
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
+
+[//]: # ()
 
 [//]: # (  dapibus sit amet.)
 
