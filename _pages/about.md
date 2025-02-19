@@ -61,8 +61,8 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
 
-- This paper propose a novel **EEG Foundation Model 🏠** called **CBraMod**, with **criss-cross transformer** as the backbone and **ACPE** as the positional encodings.
-- **CBraMod** achieve superior performance across up to **10 downstream BCI tasks with 12 public datasets**, proving its strong capability and generalizability.
+- This paper proposes a novel **EEG Foundation Model 🏠** called **CBraMod**, with **criss-cross transformer** as the backbone and **ACPE** as the positional encodings.
+- **CBraMod** achieves superior performance across up to **10 downstream BCI tasks with 12 public datasets**, proving its strong capability and generalizability.
 </div>
 </div>
 
@@ -77,6 +77,9 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 [![Paper](https://img.shields.io/badge/Paper-AAAI-008B8B)](https://ojs.aaai.org/index.php/AAAI/article/view/27779)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/SleepDG)](https://github.com/wjq-learning/SleepDG)
 
+- This paper introduces **domain generalization** into automatic sleep staging and proposes the task of **generalizable sleep staging**.
+- This paper proposes a framework called **SleepDG**, which adopting a **Multi-Level Feature Alignment** to learn domain-invariant feature representations.
+
 </div>
 </div>
 
@@ -90,6 +93,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 [![Paper](https://img.shields.io/badge/Paper-JBHI-008B8B)](https://ieeexplore.ieee.org/document/10595067)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CareSleepNet)](https://github.com/wjq-learning/CareSleepNet)
 
+- This paper proposes **CareSleepNet**, a novel hybrid deep learning network for automatic sleep staging from PSG recordings.
 - This paper is selected as the **Cover Article 🏆** of the corresponding issue by **IEEE Journal of Biomedical and Health Informatics (JBHI)**.
 </div>
 </div>
