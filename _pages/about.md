@@ -39,7 +39,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 - *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by **ICLR 2025**!
 - *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
-  published as a cover article in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
+  published as a **Cover Article 🏆** in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
 - *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
   accepted by **AAAI 2025**!
 - *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI
