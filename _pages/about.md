@@ -34,7 +34,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 # 🔥 News
 
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
-  Model 🚀**) is accepted by **ICLR
+  Model 🏠**) is accepted by **ICLR
   2025**!
 - *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by **ICLR 2025**!
