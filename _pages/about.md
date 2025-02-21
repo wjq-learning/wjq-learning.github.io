@@ -106,7 +106,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 - `AAAI 2021` [RpBERT: a text-image relation propagation-based BERT model for multimodal NER](https://ojs.aaai.org/index.php/AAAI/article/view/17633), Lin Sun<sup>#</sup>, **Jiquan Wang<sup>#</sup>**, Kai Zhang, Yindu Su, Fangsheng Weng
 - `COLING 2020` [RIVA: a pre-trained tweet multimodal model based on text-image relation for multimodal NER](https://aclanthology.org/2020.coling-main.168/), Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Yuanyi Chen
 
-<sup>✉</sup> denotes corresponding author and <sup>#</sup> denotes equal contribution.
+<sup>🖂</sup> denotes corresponding author and <sup>#</sup> denotes equal contribution.
 
 [//]: # (# 🎖 Honors and Awards)
 
