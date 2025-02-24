@@ -34,7 +34,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 # 🔥 News
 
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
-  Model 🏠**) is accepted by **ICLR
+  Model 🤖**) is accepted by **ICLR
   2025**!
 - *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by **ICLR 2025**!
@@ -61,7 +61,7 @@ My research interest includes EEG decoding, Brain-Computer Interface, Artificial
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
 
-- This paper proposes a novel **EEG Foundation Model 🏠** called **CBraMod**, with **criss-cross transformer** as the backbone and **ACPE** as the positional encodings.
+- This paper proposes a novel **EEG Foundation Model 🤖** called **CBraMod**, with **criss-cross transformer** as the backbone and **ACPE** as the positional encodings.
 - **CBraMod** achieves superior performance across up to **10 downstream BCI tasks with 12 public datasets**, proving its strong capability and generalizability.
 </div>
 </div>
