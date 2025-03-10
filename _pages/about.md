@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University (浙江大学脑机智能全国重点实验室), under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
+I am currently projected to assume the role of a research fellow (专职研究员) at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University (浙江大学脑机智能全国重点实验室).
 
-I graduated from College of Computer Science and Technology, Harbin Institute of Technology (哈尔滨工业大学计算机科学与技术学院) with a bachelor’s degree of Software Engineering (软件工程专业学士学位).
+I received my Ph.D. degree in Computer Science and Technology (计算机科学与技术博士学位) from the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
+
+I graduated from College of Computer Science and Technology, Harbin Institute of Technology (哈尔滨工业大学计算机科学与技术学院), with a bachelor’s degree of Software Engineering (软件工程学士学位).
 
 My research interest includes EEG decoding, Brain-Computer Interface, Artificial Intelligence and Deep Learning.
 
