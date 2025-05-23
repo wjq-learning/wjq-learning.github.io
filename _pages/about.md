@@ -21,7 +21,7 @@ I am currently a research fellow at the State Key Laboratory of Brain-Machine In
 
 I received my Ph.D. degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University, under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
-I earned my bachelor's degree in Software Engineering from the College of Computer Science and Technology at Harbin Institute of Technology.
+I earned my bachelor's degree in Software Engineering from the College of Computer Science and Technology, Harbin Institute of Technology.
 
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
@@ -31,7 +31,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 我目前是浙江大学脑机智能全国重点实验室的研究员，与[赵莎研究员](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )合作。
 
-我在浙江大学计算机科学与技术学院获得计算机科学与技术专业的博士学位，导师为[赵莎助理教授](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )。
+我研究生就读于浙江大学计算机科学与技术学院，获得计算机科学与技术专业的博士学位，导师为[赵莎研究员](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )。
 
 我本科就读于哈尔滨工业大学计算机科学与技术学院，获软件工程学士学位。
 
