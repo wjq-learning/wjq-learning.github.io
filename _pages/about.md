@@ -23,7 +23,7 @@ I received my Ph.D. degree in Computer Science and Technology from the College o
 
 I earned my bachelor's degree in Software Engineering from the College of Computer Science and Technology at Harbin Institute of Technology.
 
-My research interests include EEG decoding, Brain-Computer Interfaces, Artificial Intelligence, and Deep Learning.
+My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
 [//]: # (I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.)
 
@@ -35,7 +35,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Artificia
 
 我本科就读于哈尔滨工业大学计算机科学与技术学院，获软件工程学士学位。
 
-我的研究兴趣包括脑电信号解码、脑机接口、人工智能和深度学习。
+我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。
 
 # 🔥 News
 
