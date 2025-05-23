@@ -27,6 +27,8 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Artificia
 
 [//]: # (I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.)
 
+---
+
 我目前是浙江大学脑机智能全国重点实验室的研究员，与[赵莎研究员](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )合作。
 
 我在浙江大学计算机科学与技术学院获得计算机科学与技术专业的博士学位，导师为[赵莎助理教授](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )。
