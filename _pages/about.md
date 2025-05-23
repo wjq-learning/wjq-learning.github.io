@@ -17,23 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research fellow (专职研究员) at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University (浙江大学脑机智能全国重点实验室), working with [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
+I am currently a research fellow at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, collaborating with [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
-I received my Ph.D. degree in Computer Science and Technology (计算机科学与技术博士学位) from the College of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院), under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
+I received my Ph.D. degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University, under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
-I graduated from College of Computer Science and Technology, Harbin Institute of Technology (哈尔滨工业大学计算机科学与技术学院), with a bachelor’s degree of Software Engineering (软件工程学士学位).
+I earned my bachelor's degree in Software Engineering from the College of Computer Science and Technology at Harbin Institute of Technology.
 
-My research interest includes EEG decoding, Brain-Computer Interface, Artificial Intelligence and Deep Learning.
+My research interests include EEG decoding, Brain-Computer Interfaces, Artificial Intelligence, and Deep Learning.
 
 [//]: # (I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.)
 
-[//]: # (My research interest includes neural machine translation and computer vision. I have published more than 100 papers at)
+我目前是浙江大学脑机智能全国重点实验室的研究员，与[赵莎研究员](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )合作。
 
-[//]: # (the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google)
+我在浙江大学计算机科学与技术学院获得计算机科学与技术专业的博士学位，导师为[赵莎助理教授](http://www.shazhao.net/)和[潘纲教授](https://person.zju.edu.cn/gpan )。
 
-[//]: # (scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar)
+我本科就读于哈尔滨工业大学计算机科学与技术学院，获软件工程学士学位。
 
-[//]: # (badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
+我的研究兴趣包括脑电信号解码、脑机接口、人工智能和深度学习。
 
 # 🔥 News
 
