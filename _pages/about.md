@@ -25,7 +25,7 @@ I earned my bachelor's degree in Software Engineering from the College of Comput
 
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
-[//]: # (I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.)
+I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.
 
 ---
 
