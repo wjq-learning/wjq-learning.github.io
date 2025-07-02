@@ -37,6 +37,8 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
 
 我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。
 
+我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系。
+
 # 🔥 News
 
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
