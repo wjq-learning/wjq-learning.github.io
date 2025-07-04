@@ -25,7 +25,7 @@ I earned my bachelor's degree in Software Engineering from the College of Comput
 
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
-I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email.
+I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email (wangjiquan@zju.edu.cn).
 
 ---
 
@@ -37,7 +37,7 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
 
 我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。
 
-我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系。
+我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系(wangjiquan@zju.edu.cn)。
 
 # 🔥 News
 
