@@ -41,6 +41,10 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
 
 # 🔥 News
 
+- *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
+  Model 🤖**) is accepted by **Neural Networks**!
+- *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through 
+  Portable EEG-fNIRS Fusion_" is accepted by **ACMMM 2025**!
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
   Model 🤖**) is accepted by **ICLR
   2025**!
