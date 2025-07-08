@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research fellow at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, collaborating with [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
+I am currently a research fellow at the State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, working with [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
 I received my Ph.D. degree in Computer Science and Technology from the College of Computer Science and Technology, Zhejiang University, under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/) and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
