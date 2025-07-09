@@ -53,8 +53,8 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
   published as a **Cover Article 🏆** in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
 - *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
   accepted by **AAAI 2025**!
-- *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI
-  2024**!
+- *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI 
+- 2024**!
 - *2023.09*: &nbsp;🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
   published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
@@ -119,52 +119,12 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
 
 <sup>**✉**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
-[//]: # (# 🎖 Honors and Awards)
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # ()
-
-[//]: # (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
-
-[//]: # ()
-
-[//]: # (  dapibus sit amet.)
-
-[//]: # ()
-
-[//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
-
-[//]: # ()
-
-[//]: # (  dapibus sit amet.)
 
 # 📖 Educations
 
 - *2019.06 - 2025.03*, PhD candidate, Computer Science and Technology, Zhejiang University, Hanzhou, China.
 - *2015.09 - 2019.06*, Undergraduate, Software Engineering, Harbin Institute of Technology, Harbin, China.
 
-[//]: # (# 💬 Invited Talks)
-
-[//]: # ()
-
-[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
-
-[//]: # (  dapibus sit amet.)
-
-[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo)
-
-[//]: # (  dapibus sit amet. \| [\[video\]]&#40;https://github.com/&#41;)
-
-[//]: # ()
-
-[//]: # (# 💻 Internships)
-
-[//]: # ()
-
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
 
 <div style="width: 50%; margin: 0 auto; text-align: center;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TzqIOasqA-EsJJYPt2cMXeu2O3Yj6LcQzlC9QoFWe3o&cl=ffffff&w=a"></script>
