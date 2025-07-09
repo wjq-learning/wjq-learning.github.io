@@ -46,8 +46,7 @@ I am looking for **highly-motivated💪** students to work with me. If intereste
 - *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through 
   Portable EEG-fNIRS Fusion_" is accepted by **ACMMM 2025**!
 - *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
-  Model 🤖**) is accepted by **ICLR
-  2025**!
+  Model 🤖**) is accepted by **ICLR 2025**!
 - *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
   Applications_" is accepted by **ICLR 2025**!
 - *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
