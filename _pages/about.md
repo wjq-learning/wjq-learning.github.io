@@ -142,7 +142,7 @@ Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Y
 <sup>**✉**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
 # 💻 Professional Experience
-- *2025.03 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hanzhou, China.
+- *2025.04 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hanzhou, China.
 
 
 # 📖 Educations
