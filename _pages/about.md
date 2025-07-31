@@ -34,7 +34,7 @@ wangjiquan@zju.edu.cn).
 
 ---
 
-我目前是浙江大学脑机智能全国重点实验室的专职研究员，与[赵莎研究员](http://www.shazhao.net/)
+我目前是浙江大学脑机智能全国重点实验室的专聘研究员，与[赵莎研究员](http://www.shazhao.net/)
 和[潘纲教授](https://person.zju.edu.cn/gpan )合作。
 
 我研究生就读于浙江大学计算机科学与技术学院，获得计算机科学与技术专业的博士学位，导师为[赵莎研究员](http://www.shazhao.net/)
@@ -140,6 +140,10 @@ Lin Sun<sup>#</sup>, **Jiquan Wang<sup>#</sup>**, Kai Zhang, Yindu Su, Fangsheng
 Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Yuanyi Chen
 
 <sup>**✉**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
+
+# 💻 Professional Experience
+- *2025.03 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hanzhou, China.
+
 
 # 📖 Educations
 
