@@ -87,6 +87,25 @@ wangjiquan@zju.edu.cn).
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/EEGMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEGMamba: An EEG Foundation Model with Mamba](https://www.sciencedirect.com/science/article/pii/S0893608025006963)
+
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Shijian Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/Paper-NeuralNetworks-008B8B)](https://www.sciencedirect.com/science/article/pii/S0893608025006963)
+[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/EEGMamba)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/EEGMamba)](https://github.com/wjq-learning/EEGMamba)
+
+- This paper proposes a novel **EEG Foundation Model 🤖** called **EEGMamba**, with **Mamba state space model** as the
+  backbone.
+- **EEGMamba** achieves competitive performance across up to **6 downstream BCI tasks with 6 public datasets**, proving
+  its strong capability and generalizability.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/papers/SleepDG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,6 +143,8 @@ wangjiquan@zju.edu.cn).
 </div>
 </div>
 
+- `ACMMM 2025`[Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
+  Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `ICLR 2025` [BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications](https://openreview.net/forum?id=6jjAYmppGQ),
 Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 - `AAAI 2025` [Personalized Sleep Staging Leveraging Source-free Unsupervised Domain Adaptation](https://arxiv.org/abs/2412.12159),
