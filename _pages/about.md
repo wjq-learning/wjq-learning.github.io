@@ -24,7 +24,7 @@ I received my Ph.D. degree in Computer Science and Technology from the College o
 Zhejiang University, under the supervision of [Asst. Prof. Sha Zhao](http://www.shazhao.net/)
 and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 
-I earned my bachelor's degree in Software Engineering from the College of Computer Science and Technology, Harbin
+I received my bachelor's degree in Software Engineering from the College of Computer Science and Technology, Harbin
 Institute of Technology.
 
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
