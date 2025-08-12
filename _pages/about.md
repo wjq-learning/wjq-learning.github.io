@@ -143,7 +143,7 @@ wangjiquan@zju.edu.cn).
 </div>
 </div>
 
-- `ACMMM 2025`[Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
+- `ACMMM 2025` [Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
   Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, **Jiquan Wang**, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `ICLR 2025` [BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications](https://openreview.net/forum?id=6jjAYmppGQ),
 Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
