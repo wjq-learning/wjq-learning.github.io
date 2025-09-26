@@ -47,7 +47,8 @@ wangjiquan@zju.edu.cn).
 我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系(wangjiquan@zju.edu.cn)。
 
 # 🔥 News
-
+- *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG 
+  Decoding_" is accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
   Model 🤖**) is accepted by **Neural Networks**!
 - *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
