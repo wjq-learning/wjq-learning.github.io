@@ -27,6 +27,8 @@ and [Prof. Gang Pan](https://person.zju.edu.cn/gpan).
 I received my bachelor's degree in Software Engineering from the College of Computer Science and Technology, Harbin
 Institute of Technology.
 
+I received the 2025 ACM Hangzhou Outstanding Doctoral Dissertation Award.
+
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
 I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email (
@@ -41,6 +43,8 @@ wangjiquan@zju.edu.cn).
 和[潘纲教授](https://person.zju.edu.cn/gpan )。
 
 我本科就读于哈尔滨工业大学计算机科学与技术学院，获软件工程学士学位。
+
+我曾获得2025年ACM杭州优博奖。
 
 我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。
 
