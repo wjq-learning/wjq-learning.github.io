@@ -171,13 +171,12 @@ Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Y
 # 💻 Professional Experience
 - *2025.04 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hanzhou, China.
 
-
 # 📖 Educations
 
 - *2019.06 - 2025.03*, PhD candidate, Computer Science and Technology, Zhejiang University, Hanzhou, China.
 - *2015.09 - 2019.06*, Undergraduate, Software Engineering, Harbin Institute of Technology, Harbin, China.
 
-# 🛠 Projects
+# 🔨 Projects
 
 1. the Key Program of the Natural Science Foundation of Zhejiang Province, 2024-2026
 2. the Youth Program of the Natural Science Foundation of Zhejiang Province, 2026-2027
