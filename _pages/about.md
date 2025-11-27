@@ -177,6 +177,11 @@ Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Y
 - *2019.06 - 2025.03*, PhD candidate, Computer Science and Technology, Zhejiang University, Hanzhou, China.
 - *2015.09 - 2019.06*, Undergraduate, Software Engineering, Harbin Institute of Technology, Harbin, China.
 
+# 🛠 Projects
+
+1. the Key Program of the Natural Science Foundation of Zhejiang Province, 2024-2026
+2. the Youth Program of the National Natural Science Foundation of China, 2026-2027
+
 <div style="width: 50%; margin: 0 auto; text-align: center;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TzqIOasqA-EsJJYPt2cMXeu2O3Yj6LcQzlC9QoFWe3o&cl=ffffff&w=a"></script>
 </div>
