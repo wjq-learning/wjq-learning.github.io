@@ -51,7 +51,10 @@ wangjiquan@zju.edu.cn).
 我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系(wangjiquan@zju.edu.cn)。
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG 
+
+- *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for
+  cross-subject seizure prediction_" is accepted by **Neurocomputing**!
+- *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG
   Decoding_" is accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
   Model 🤖**) is accepted by **Neural Networks**!
@@ -169,7 +172,9 @@ Lin Sun, **Jiquan Wang**, Yindu Su, Fangsheng Weng, Yuxuan Sun, Zengwei Zheng, Y
 <sup>**✉**</sup> denotes corresponding author and <sup>**#**</sup> denotes equal contribution.
 
 # 💻 Professional Experience
-- *2025.04 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University, Hanzhou, China.
+
+- *2025.04 - present*, Research Fellow, State Key Laboratory of Brain-Machine Intelligence, Zhejiang University,
+  Hanzhou, China.
 
 # 📖 Educations
 
