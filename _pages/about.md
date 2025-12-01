@@ -147,7 +147,7 @@ wangjiquan@zju.edu.cn).
 
 </div>
 </div>
-
+- `Neurocomputing 2025` [SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction](https://www.sciencedirect.com/science/article/pii/S0925231225028991), Sha Zhao, Caibo Zhang, **Jiquan Wang**<sup>**✉**</sup>, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<sup>**✉**</sup>
 - `NeurIPS 2025` [SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding](https://arxiv.org/abs/2509.17439), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 - `ACMMM 2025` [Wearable Music2Emotion: Assessing Emotions Induced by AI-Generated Music through
   Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, **Jiquan Wang**, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
