@@ -31,8 +31,8 @@ I received the 2025 ACM Hangzhou Outstanding Doctoral Dissertation Award.
 
 My research interests include EEG decoding, Brain-Computer Interfaces, Deep Learning, and Artificial Intelligence.
 
-I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by email (
-wangjiquan@zju.edu.cn).
+I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by
+email (wangjiquan@zju.edu.cn).
 
 ---
 
