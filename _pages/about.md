@@ -52,6 +52,8 @@ email (wangjiquan@zju.edu.cn).
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI
+  Applications_" is accepted by **Neurocomputing**!
 - *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for
   cross-subject seizure prediction_" is accepted by **Neurocomputing**!
 - *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG
