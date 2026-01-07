@@ -135,6 +135,25 @@ email (wangjiquan@zju.edu.cn).
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2026</div><img src='images/papers/EEGDiffuser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI Applications](https://www.sciencedirect.com/science/article/pii/S0925231226000330)
+
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Shijian Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/Paper-Neurocomputing-008B8B)](https://www.sciencedirect.com/science/article/pii/S0925231226000330)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/EEGDiffuser)](https://github.com/wjq-learning/EEGDiffuser)
+
+- We propose **EEGDiffuser**, a **label-conditioned diffusion model** for generating EEG signals to alleviate data scarcity in BCI.
+- We conduct extensive evaluations across **diverse BCI tasks and datasets**, showing that synthetic data from EEGDiffuser **consistently enhances the performance of multiple EEG decoders**.
+- Our analysis shows that the generated signals **exhibit neural characteristics similar to real EEG**, supporting their neurophysiological plausibility and their potential to drive advancements in neural decoding and broader neuroscientific discovery.
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2024</div><img src='images/papers/CareSleepNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
