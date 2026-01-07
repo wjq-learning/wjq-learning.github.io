@@ -146,8 +146,7 @@ email (wangjiquan@zju.edu.cn).
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/EEGDiffuser)](https://github.com/wjq-learning/EEGDiffuser)
 
 - We propose **EEGDiffuser**, a **label-conditioned diffusion model** for generating EEG signals to alleviate data scarcity in BCI.
-- **EEGDiffuser** boosts decoder performance across diverse BCI tasks and datasets.  
-- Generated EEG signals show **neural characteristics similar to real data**, supporting their neurophysiological plausibility and their potential to drive advancements in neural decoding and broader neuroscientific discovery.
+- **EEGDiffuser** boosts decoder performance across diverse BCI tasks and datasets. Generated EEG signals show **neural characteristics similar to real data**.
 
 </div>
 </div>
