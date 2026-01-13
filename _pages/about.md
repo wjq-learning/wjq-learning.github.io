@@ -109,7 +109,7 @@ email (wangjiquan@zju.edu.cn).
 
 - We propose **DeeperBrain**, a neuro-grounded **EEG Foundation Model 🤖** that integrates biophysical inductive biases
   through **volume conduction-aware spatial** and **neurodynamics-aware temporal positional encodings**, optimized via a
-  dual-objective strategy combining masked reconstruction with neurodynamics statistics prediction.
+  dual-objective strategy combining masked reconstruction with **neurodynamics statistics prediction**.
 - Extensive experiments demonstrate that DeeperBrain achieves state-of-the-art performance under **end-to-end
   fine-tuning** and maintains superior efficacy in **frozen-probing** protocols, validating that embedding
   neuroscientific principles endows learned representations with the **intrinsic universality** required for universal
