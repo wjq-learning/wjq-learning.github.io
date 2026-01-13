@@ -98,7 +98,7 @@ email (wangjiquan@zju.edu.cn).
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/DeeperBrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/papers/DeeperBrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeeperBrain: A Neuro-Grounded EEG Foundation Model Towards Universal BCI](https://arxiv.org/abs/2601.06134)
