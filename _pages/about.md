@@ -103,7 +103,7 @@ email (wangjiquan@zju.edu.cn).
 
 [DeeperBrain: A Neuro-Grounded EEG Foundation Model Towards Universal BCI](https://arxiv.org/abs/2601.06134)
 
-**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+**Jiquan Wang**, Sha Zhao, Yangxuan Zhou, Yiming Kang, Shijian Li, Gang Pan
 
 [![Paper](https://img.shields.io/badge/arXiv-2601.06134-red)](https://arxiv.org/abs/2601.06134)
 
