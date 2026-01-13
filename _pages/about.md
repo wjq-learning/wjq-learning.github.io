@@ -97,6 +97,28 @@ email (wangjiquan@zju.edu.cn).
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/DeeperBrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeeperBrain: A Neuro-Grounded EEG Foundation Model Towards Universal BCI](https://arxiv.org/abs/2601.06134)
+
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/arXiv-2601.06134-red)](https://arxiv.org/abs/2601.06134)
+
+- We propose **DeeperBrain**, a neuro-grounded **EEG Foundation Model 🤖** that integrates biophysical inductive biases
+  through **volume conduction-aware spatial** and **neurodynamics-aware temporal positional encodings**, optimized via a
+  dual-objective strategy combining masked reconstruction with neurodynamics statistics prediction.
+- Extensive experiments demonstrate that DeeperBrain achieves state-of-the-art performance under **end-to-end
+  fine-tuning** and maintains superior efficacy in **frozen-probing** protocols, validating that embedding
+  neuroscientific principles endows learned representations with the **intrinsic universality** required for universal
+  BCI.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/papers/EEGMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -145,8 +167,10 @@ email (wangjiquan@zju.edu.cn).
 [![Paper](https://img.shields.io/badge/Paper-Neurocomputing-008B8B)](https://www.sciencedirect.com/science/article/pii/S0925231226000330)
 [![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/EEGDiffuser)](https://github.com/wjq-learning/EEGDiffuser)
 
-- We propose **EEGDiffuser**, a **label-conditioned diffusion model** for generating EEG signals to alleviate data scarcity in BCI.
-- **EEGDiffuser** boosts decoder performance across diverse BCI tasks and datasets. Generated EEG signals show **neural characteristics similar to real data**.
+- We propose **EEGDiffuser**, a **label-conditioned diffusion model** for generating EEG signals to alleviate data
+  scarcity in BCI.
+- **EEGDiffuser** boosts decoder performance across diverse BCI tasks and datasets. Generated EEG signals show **neural
+  characteristics similar to real data**.
 
 </div>
 </div>
