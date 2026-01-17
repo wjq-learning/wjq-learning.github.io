@@ -77,25 +77,6 @@ email (wangjiquan@zju.edu.cn).
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/CBraMod.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=NPNUHgHF2w)
-
-**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
-
-[![Paper](https://img.shields.io/badge/arXiv-2412.07236-red)](https://arxiv.org/abs/2412.07236)
-[![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://openreview.net/forum?id=NPNUHgHF2w)
-[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
-[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
-
-- This paper proposes a novel **EEG Foundation Model 🤖** called **CBraMod**, with **criss-cross transformer** as the
-  backbone and **ACPE** as the positional encodings.
-- **CBraMod** achieves superior performance across up to **10 downstream BCI tasks with 12 public datasets**, proving
-  its strong capability and generalizability.
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/papers/DeeperBrain.png' alt="sym" width="100%"></div></div>
@@ -114,6 +95,27 @@ email (wangjiquan@zju.edu.cn).
   fine-tuning** and maintains superior efficacy in **frozen-probing** protocols, validating that embedding
   neuroscientific principles endows learned representations with the **intrinsic universality** required for universal
   BCI.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/CBraMod.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=NPNUHgHF2w)
+
+**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/arXiv-2412.07236-red)](https://arxiv.org/abs/2412.07236)
+[![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://openreview.net/forum?id=NPNUHgHF2w)
+[![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E)](https://huggingface.co/weighting666/CBraMod)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wjq-learning/CBraMod)](https://github.com/wjq-learning/CBraMod)
+
+- This paper proposes a novel **EEG Foundation Model 🤖** called **CBraMod**, with **criss-cross transformer** as the
+  backbone and **ACPE** as the positional encodings.
+- **CBraMod** achieves superior performance across up to **10 downstream BCI tasks with 12 public datasets**, proving
+  its strong capability and generalizability.
 
 </div>
 </div>
