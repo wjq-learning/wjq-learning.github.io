@@ -52,6 +52,8 @@ email (wangjiquan@zju.edu.cn).
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable
+  Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
 - *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI
   Applications_" is accepted by **Neurocomputing**!
 - *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for
@@ -76,8 +78,6 @@ email (wangjiquan@zju.edu.cn).
   published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
 # 📝 Publications
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/papers/DeeperBrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -195,6 +195,8 @@ email (wangjiquan@zju.edu.cn).
 
 </div>
 </div>
+
+- `TAFFC 2026` [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback](https://ieeexplore.ieee.org/document/11477097), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `Neurocomputing 2025` [SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction](https://www.sciencedirect.com/science/article/pii/S0925231225028991), Sha Zhao, Caibo Zhang, **Jiquan Wang**<sup>**✉**</sup>, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<sup>**✉**</sup>
 - `NeurIPS 2025` [SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding](https://arxiv.org/abs/2509.17439), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 - `ACMMM 2025` [Wearable Music2Emotion: Assessing Emotions Induced by AI-Generated Music through
