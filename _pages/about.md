@@ -52,7 +52,7 @@ email (wangjiquan@zju.edu.cn).
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉 Our paper "_BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness_" is accepted by **Journal of Neuroengineering and Rehabilitation**!
+- *2026.09*: &nbsp;🎉 Our paper "_BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness_" is accepted by **Journal of Neural Engineering**!
 - *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
 - *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI Applications_" is accepted by **Neurocomputing**!
 - *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction_" is accepted by **Neurocomputing**!
