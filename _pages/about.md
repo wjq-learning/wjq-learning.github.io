@@ -34,22 +34,6 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 I am looking for **highly-motivated💪** students to work with me. If interested, please drop me a message by
 email (wangjiquan@zju.edu.cn).
 
----
-
-我目前是浙江大学脑机智能全国重点实验室的专聘研究员，与[赵莎研究员](http://www.shazhao.net/)
-和[潘纲教授](https://person.zju.edu.cn/gpan )合作。
-
-我研究生就读于浙江大学计算机科学与技术学院，获得计算机科学与技术专业的博士学位，导师为[赵莎研究员](http://www.shazhao.net/)
-和[潘纲教授](https://person.zju.edu.cn/gpan )。
-
-我本科就读于哈尔滨工业大学计算机科学与技术学院，获软件工程学士学位。
-
-我曾获得2025年ACM杭州优博奖。
-
-我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。
-
-我正在寻找**积极进取💪**的学生与我一起合作。如果你有兴趣，请通过电子邮件与我联系(wangjiquan@zju.edu.cn)。
-
 # 🔥 News
 
 - *2026.09*: &nbsp;🎉 Our paper "_BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness_" is accepted by **Journal of Neural Engineering**!
