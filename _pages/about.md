@@ -52,30 +52,19 @@ email (wangjiquan@zju.edu.cn).
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable
-  Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
-- *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI
-  Applications_" is accepted by **Neurocomputing**!
-- *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for
-  cross-subject seizure prediction_" is accepted by **Neurocomputing**!
-- *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG
-  Decoding_" is accepted by **NeurIPS 2025**!
-- *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
-  Model 🤖**) is accepted by **Neural Networks**!
-- *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion: Assessing Emotions Induced by AI-Generated Music through
-  Portable EEG-fNIRS Fusion_" is accepted by **ACMMM 2025**!
-- *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation
-  Model 🤖**) is accepted by **ICLR 2025**!
-- *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG
-  Applications_" is accepted by **ICLR 2025**!
-- *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is
-  published as a **Cover Article 🏆** in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
-- *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is
-  accepted by **AAAI 2025**!
-- *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI
-  2024**!
-- *2023.09*: &nbsp;🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is
-  published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
+- *2026.09*: &nbsp;🎉 Our paper "_BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness_" is accepted by **Journal of Neuroengineering and Rehabilitation**!
+- *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
+- *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI Applications_" is accepted by **Neurocomputing**!
+- *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction_" is accepted by **Neurocomputing**!
+- *2025.09*: &nbsp;🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding_" is accepted by **NeurIPS 2025**!
+- *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation Model 🤖**) is accepted by **Neural Networks**!
+- *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion: Assessing Emotions Induced by AI-Generated Music through Portable EEG-fNIRS Fusion_" is accepted by **ACMMM 2025**!
+- *2025.01*: &nbsp;🎉🎉 Our paper "_CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding_" (**EEG Foundation Model 🤖**) is accepted by **ICLR 2025**!
+- *2025.01*: &nbsp;🎉 Our paper "_BrainUICL: An Unsupervised Individual Continual Learning Framework for EEG Applications_" is accepted by **ICLR 2025**!
+- *2024.12*: &nbsp;🎉 Our paper "_CareSleepNet: A Hybrid Deep Learning Network for Automatic Sleep Staging_" is published as a **Cover Article 🏆** in **IEEE Journal of Biomedical and Health Informatics (JBHI)**!
+- *2024.12*: &nbsp;🎉 Our paper "_Personalized Sleep Staging Leveraging Source-Free Unsupervised Domain Adaptation_" is accepted by **AAAI 2025**!
+- *2023.12*: &nbsp;🎉 Our paper "_Generalizable Sleep Staging via Multi-level Domain Alignment_" is accepted by **AAAI 2024**!
+- *2023.09*: &nbsp;🎉 Our paper "_Narcolepsy Diagnosis With Sleep Stage Features Using PSG Recordings_" is published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
 # 📝 Publications
 
@@ -196,6 +185,7 @@ email (wangjiquan@zju.edu.cn).
 </div>
 </div>
 
+- `JNE 2026` [BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness](https://iopscience.iop.org/article/10.1088/1741-2552/aea7db/meta), Haoxiang Chen, Sha Zhao, Jie Yu, **Jiquan Wang**, Yumeng Bai, Chuan Xu, Shijian Li, Benyan Luo, Gang Pan
 - `Preprint 2026` [EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks](https://arxiv.org/abs/2606.01767), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Shijian Li, Gang Pan
 - `TAFFC 2026` [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback](https://ieeexplore.ieee.org/document/11477097), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, **Jiquan Wang**, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `Neurocomputing 2025` [SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction](https://www.sciencedirect.com/science/article/pii/S0925231225028991), Sha Zhao, Caibo Zhang, **Jiquan Wang**<sup>**✉**</sup>, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<sup>**✉**</sup>
