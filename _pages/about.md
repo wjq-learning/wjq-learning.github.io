@@ -37,6 +37,7 @@ email (wangjiquan@zju.edu.cn).
 # 🔥 News
 
 - *2026.09*: &nbsp;🎉 Our paper "_BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness_" is accepted by **Journal of Neural Engineering**!
+- *2026.09*: &nbsp;🎉 Our paper "_EEG Biomarkers for Affective Disorders Diagnosis: An Evaluation and Validation Study_" is accepted by **Human Brain Mapping**!
 - *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
 - *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI Applications_" is accepted by **Neurocomputing**!
 - *2025.12*: &nbsp;🎉 Our paper "_SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction_" is accepted by **Neurocomputing**!
@@ -170,6 +171,7 @@ email (wangjiquan@zju.edu.cn).
 </div>
 
 - `JNE 2026` [BRAINet: A brain-region-aware interaction network for EEG-based diagnosis of disorders of consciousness](https://iopscience.iop.org/article/10.1088/1741-2552/aea7db/meta), Haoxiang Chen, Sha Zhao, Jie Yu, **Jiquan Wang**, Yumeng Bai, Chuan Xu, Shijian Li, Benyan Luo, Gang Pan
+- `HBM 2026` [EEG Biomarkers for Affective Disorders Diagnosis: An Evaluation and Validation Study](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.70628), Sha Zhao, Yitian Liu, **Jiquan Wang**, Ruizhe Zhang, Yilin Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 - `Preprint 2026` [EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks](https://arxiv.org/abs/2606.01767), Yangxuan Zhou, Sha Zhao, **Jiquan Wang**, Shijian Li, Gang Pan
 - `TAFFC 2026` [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback](https://ieeexplore.ieee.org/document/11477097), Sha Zhao, Song Yi, Yangxuan Zhou, Jiadong Pan, **Jiquan Wang**, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `Neurocomputing 2025` [SeiFuD: A novel deep learning framework leveraging domain generalization for cross-subject seizure prediction](https://www.sciencedirect.com/science/article/pii/S0925231225028991), Sha Zhao, Caibo Zhang, **Jiquan Wang**<sup>**✉**</sup>, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan<sup>**✉**</sup>
